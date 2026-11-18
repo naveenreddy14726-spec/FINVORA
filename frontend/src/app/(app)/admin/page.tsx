@@ -1,9 +1,8 @@
 import type { Metadata } from "next";
-import Gate from "@/components/Gate";
+import OverviewView from "@/components/admin/OverviewView";
 
-export const metadata: Metadata = { title: "Admin" };
+export const metadata: Metadata = { title: "Admin dashboard" };
 
-// Stage 1 foundation. The backend (/api/admin/me) decides access; non-admins see "Access denied".
 export default function AdminPage() {
-  return <Gate endpoint="/api/admin/me" title="Admin" />;
+  return <OverviewView />;
 }

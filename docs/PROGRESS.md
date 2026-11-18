@@ -20,3 +20,5 @@
 | 15 | Razorpay integration | Not started |
 | 16 | Admin dashboard | Not started |
 | 17 | Security, testing, deployment | Not started |
+
+Admin Stage 1 (layout, overview, users, subscriptions, plans view, analytics, audit logs, settings): code done, tested by API tests and live read-only queries. See docs/04-ADMIN-DASHBOARD.md.
