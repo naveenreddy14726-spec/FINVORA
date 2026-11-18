@@ -2,9 +2,9 @@
 
 | Phase | Name | Status |
 |---|---|---|
-| 0 | Product requirements and architecture | **Done (awaiting approval)** |
-| 1 | Repository foundation and dev environment | Not started |
-| 2 | Branding and public website | Not started |
+| 0 | Product requirements and architecture | Done |
+| 1 | Repository foundation and dev environment | Done |
+| 2 | Branding and public website | **Done, awaiting approval** (text wordmark until logo file is supplied) |
 | 3 | Authentication and user profiles | Not started |
 | 4 | Entitlement engine | Not started |
 | 5 | User dashboard | Not started |
