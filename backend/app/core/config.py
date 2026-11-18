@@ -14,6 +14,9 @@ class Settings(BaseSettings):
     supabase_url: str = ""
     supabase_service_role_key: str = ""  # server only, never sent to the browser
 
+    # If true, admin APIs require an MFA-verified session (JWT claim aal == "aal2").
+    admin_require_mfa: bool = False
+
     market_data_api_key: str = ""
     news_api_key: str = ""
     llm_api_key: str = ""

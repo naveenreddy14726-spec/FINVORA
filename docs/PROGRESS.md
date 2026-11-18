@@ -5,7 +5,7 @@
 | 0 | Product requirements and architecture | Done |
 | 1 | Repository foundation and dev environment | Done |
 | 2 | Branding and public website | **Done, awaiting approval** (text wordmark until logo file is supplied) |
-| 3 | Authentication and user profiles | Not started |
+| 3 | Authentication and user profiles | **Code done, NOT yet verified against live Supabase** (migration 0001 must be applied) |
 | 4 | Entitlement engine | Not started |
 | 5 | User dashboard | Not started |
 | 6 | Stock search and company profiles | Not started |
